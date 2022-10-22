@@ -409,6 +409,16 @@
       "responses": [
         "Mitra yang tergabung seperti Pertamina, Bank BRI, PT. KBN, dsb. Info lebih lanjut melalui website FHCI BUMN atau instagram @fhci.bumn"
       ]
+    },
+    {
+      "tag": "Keterangan",
+    "patterns" : [
+      "Kamu siapa?"
+    ],
+    "responses" : [
+      "Saya adalah Chat Bot yang dibuat untuk menjelaskan tentang Program Kampus Merdeka Kemendikbud. Untuk lebih jelasnya bisa kunjungi website https://kampusmerdeka.kemdikbud.go.id/faq"
+    ]
     }
+    
   ]
 }
